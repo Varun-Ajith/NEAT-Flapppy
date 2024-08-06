@@ -33,10 +33,11 @@ Ensure you have Python installed, then install the necessary packages using pip:
    `python flappy_bitd.py`
 
 ## Project Structure
-**Bird Class**: Represents the bird and its movements.
-**Pipe Class**: Represents the pipes and their positions.
-**Base Class**: Represents the ground that moves to simulate the bird flying.
-**Main Function**: Handles the game loop, NEAT algorithm integration, and rendering.
+1. **Bird Class**: Represents the bird and its movements.
+2. **Pipe Class**: Represents the pipes and their positions.
+3. **Base Class**: Represents the ground that moves to simulate the bird flying.
+4. **Main Function**: Handles the game loop, NEAT algorithm integration, and rendering.
+   
 ## NEAT Algorithm
 The NEAT algorithm is a genetic algorithm that evolves neural networks. It adjusts the weights, biases, and structures of the networks over generations to optimize performance.
 

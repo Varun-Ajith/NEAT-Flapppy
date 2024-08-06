@@ -20,9 +20,11 @@ Ensure you have Python installed, then install the necessary packages using pip:
 `pip install pygame neat-python`
 
 ## Files
-`flappy_bitd.py`: The main Python script that runs the Flappy Bird game and NEAT training.
-`config-feedforward.txt`: Configuration file for the NEAT algorithm.
-`flappy.gif`: GIF demonstrating the AI playing Flappy Bird.
+1. `flappy_bitd.py`: The main Python script that runs the Flappy Bird game and NEAT training.
+
+2. `config-feedforward.txt`: Configuration file for the NEAT algorithm.
+
+3. `flappy.gif`: GIF demonstrating the AI playing Flappy Bird.
 
 ## How to run
 1. Ensure you are in the project directory:

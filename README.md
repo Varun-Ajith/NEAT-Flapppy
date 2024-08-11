@@ -11,13 +11,17 @@ This project demonstrates the use of the NEAT algorithm to train a neural networ
 ## Installation
 
 1. **Clone the repository:**
-   ```sh
+   ```
    git clone https://github.com/Varun-Ajith/NEAT-Flapppy.git
+   ```
+   ```
    cd NEAT-Flapppy
    ```
 2.**Install required packages:**
 Ensure you have Python installed, then install the necessary packages using pip:
-`pip install pygame neat-python`
+```
+pip install pygame neat-python
+```
 
 ## Files
 1. `flappy_bitd.py`: The main Python script that runs the Flappy Bird game and NEAT training.
@@ -30,7 +34,9 @@ Ensure you have Python installed, then install the necessary packages using pip:
 1. Ensure you are in the project directory:
    `cd NEAT-Flapppy`
 2. Run the game:
-   `python flappy_bitd.py`
+   ```
+   python flappy_bitd.py
+   ```
 
 ## Project Structure
 1. **Bird Class**: Represents the bird and its movements.
